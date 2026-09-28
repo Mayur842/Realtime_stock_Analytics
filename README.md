@@ -59,7 +59,25 @@ Classifies market activity into:
 * Medium Risk
 * High Risk
 
-### 8. Power BI Dashboard
+### 8. SQL Analysis
+SQL is used to perform additional analysis on the processed stock data.
+
+The SQL queries include:
+
+- Highest and lowest closing price
+- Average closing price
+- Total trading volume
+- Anomaly count
+- Risk level distribution
+- High-risk records
+- Unusual volume detection
+- Highest volume records
+
+SQL queries are available in:
+
+`sql/stock_analysis.sql`
+
+### 9. Power BI Dashboard
 
 The processed data is used to create an interactive dashboard containing:
 
