@@ -88,6 +88,8 @@ The processed data is used to create an interactive dashboard containing:
 * Risk Level Slicer
 * Anomaly Detection Table
 
+![Power BI Dashboard](images/dashboard.png)
+
 ## 📁 Project Structure
 
 ```text
